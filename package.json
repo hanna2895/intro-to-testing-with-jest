@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanna2895/intro-to-testing-with-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanna2895/intro-to-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/hanna2895/intro-to-testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
